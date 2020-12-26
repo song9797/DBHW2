@@ -1,0 +1,7 @@
+{
+    "host":"h2.cl4itreulkn5.ap-northeast-2.rds.amazonaws.com",
+    "user":"Song",
+    "password":"201624500",
+    "port":3306,
+    "database":"HW2"
+}
